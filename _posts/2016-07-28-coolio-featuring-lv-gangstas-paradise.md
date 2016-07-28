@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-28T02:16:22.883Z'
+datePublished: '2016-07-28T02:34:49.605Z'
 author: []
 via: {}
-dateModified: '2016-07-28T02:15:49.585Z'
+dateModified: '2016-07-28T02:34:49.250Z'
 title: ''
 publisher: {}
 description: Coolio Featuring L.V. - Gangsta's Paradise
-starred: false
 sourcePath: _posts/2016-07-28-coolio-featuring-lv-gangstas-paradise.md
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
