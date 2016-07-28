@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-28T22:38:27.980Z'
+datePublished: '2016-07-28T22:51:20.340Z'
 sourcePath: _posts/2016-07-28-jigoku-sushi-bar.md
 author: []
 via: {}
-dateModified: '2016-07-28T22:38:27.394Z'
+dateModified: '2016-07-28T22:51:19.667Z'
 title: ''
 publisher: {}
 description: Jigoku Sushi Bar
