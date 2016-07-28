@@ -4,8 +4,15 @@
         <description><![CDATA[Joseph Arts]]></description>
         <link>https://thegrid.ai/joseph-arts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 02:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 02:36:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joseph-arts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/35dc317490c4f5524cc337bcd1cd069e/croprotate.jpg?cropheight=1761&cropwidth=1279&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc89ca133-b8b3-431a-9024-aed85e17eebf.jpg&x=0&y=0" alt="Vampirinha">]]></description>
+            <link>https://thegrid.ai/joseph-arts/vampirinha/index.html</link>
+            <guid isPermaLink="false">337b9f4e-21e1-482f-ad01-31f9c475a6f4</guid>
+            <pubDate>Thu, 28 Jul 2016 02:36:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/20b29741327a150dbd327fb5e9ed1b4a/croprotate.jpg?cropheight=1280&cropwidth=1260&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fde359149-8c03-41d4-9c1a-f9c3410d1f16.jpg&x=10&y=0">]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/joseph-arts/coolio-featuring-lv-gangstas-paradise/index.html</link>
             <guid isPermaLink="false">5a449268-1613-4b7a-960b-075741641fb8</guid>
             <pubDate>Thu, 28 Jul 2016 02:35:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/35dc317490c4f5524cc337bcd1cd069e/croprotate.jpg?cropheight=1761&cropwidth=1279&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc89ca133-b8b3-431a-9024-aed85e17eebf.jpg&x=0&y=0" alt="Vampirinha">]]></description>
-            <link>https://thegrid.ai/joseph-arts/vampirinha/index.html</link>
-            <guid isPermaLink="false">337b9f4e-21e1-482f-ad01-31f9c475a6f4</guid>
-            <pubDate>Thu, 28 Jul 2016 02:34:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
