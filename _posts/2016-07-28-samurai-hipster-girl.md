@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-28T02:16:14.178Z'
+datePublished: '2016-07-28T02:35:36.095Z'
+sourcePath: _posts/2016-07-28-samurai-hipster-girl.md
 author: []
 via: {}
-dateModified: '2016-07-28T02:14:50.443Z'
+dateModified: '2016-07-28T02:35:35.540Z'
 title: ''
 publisher: {}
 description: Samurai Hipster Girl
 starred: false
-sourcePath: _posts/2016-07-28-samurai-hipster-girl.md
 inFeed: true
 hasPage: true
 inNav: false
