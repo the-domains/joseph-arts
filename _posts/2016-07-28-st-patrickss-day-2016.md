@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-28T22:38:05.332Z'
+datePublished: '2016-07-28T22:50:38.895Z'
 sourcePath: _posts/2016-07-28-st-patrickss-day-2016.md
 author: []
 via: {}
-dateModified: '2016-07-28T22:38:04.823Z'
+dateModified: '2016-07-28T22:50:38.345Z'
 title: ''
 publisher: {}
 description: St. Patricks's Day 2016
