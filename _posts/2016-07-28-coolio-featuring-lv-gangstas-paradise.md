@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-28T02:41:27.575Z'
+datePublished: '2016-07-28T22:38:15.125Z'
 sourcePath: _posts/2016-07-28-coolio-featuring-lv-gangstas-paradise.md
 author: []
 via: {}
-dateModified: '2016-07-28T02:41:26.963Z'
+dateModified: '2016-07-28T22:38:14.435Z'
 title: ''
 publisher: {}
 description: Fanart do Clipe. Trilha sonora do filme Mentes Perigosas
