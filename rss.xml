@@ -4,15 +4,8 @@
         <description><![CDATA[Joseph Arts]]></description>
         <link>https://thegrid.ai/joseph-arts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 22:50:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 22:49:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joseph-arts/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/35dc317490c4f5524cc337bcd1cd069e/croprotate.jpg?cropheight=1761&cropwidth=1279&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc89ca133-b8b3-431a-9024-aed85e17eebf.jpg&x=0&y=0">]]></description>
-            <link>https://thegrid.ai/joseph-arts/vampirinha/index.html</link>
-            <guid isPermaLink="false">337b9f4e-21e1-482f-ad01-31f9c475a6f4</guid>
-            <pubDate>Thu, 28 Jul 2016 22:50:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01efb85e-555b-448a-8a2c-3e1f5278c8c9.jpg">]]></description>
@@ -61,6 +54,13 @@
             <link>https://thegrid.ai/joseph-arts/st-patrickss-day-2016/index.html</link>
             <guid isPermaLink="false">35e05d06-e8e7-4a58-b36d-9eac12b0cc6c</guid>
             <pubDate>Thu, 28 Jul 2016 22:38:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/35dc317490c4f5524cc337bcd1cd069e/croprotate.jpg?cropheight=1761&cropwidth=1279&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc89ca133-b8b3-431a-9024-aed85e17eebf.jpg&x=0&y=0" alt="Vampirinha">]]></description>
+            <link>https://thegrid.ai/joseph-arts/vampirinha/index.html</link>
+            <guid isPermaLink="false">337b9f4e-21e1-482f-ad01-31f9c475a6f4</guid>
+            <pubDate>Thu, 28 Jul 2016 22:37:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
