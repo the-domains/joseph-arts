@@ -4,8 +4,15 @@
         <description><![CDATA[Joseph Arts]]></description>
         <link>https://thegrid.ai/joseph-arts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 02:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 02:35:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joseph-arts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01efb85e-555b-448a-8a2c-3e1f5278c8c9.jpg" alt="Heart Breaker">]]></description>
+            <link>https://thegrid.ai/joseph-arts/heart-breaker/index.html</link>
+            <guid isPermaLink="false">167290cb-7a99-4060-8178-17c6fa8f7308</guid>
+            <pubDate>Thu, 28 Jul 2016 02:35:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b9dcca6-f334-4a79-91d7-5c355a038b5c.jpg" alt="Samurai Hipster Girl">]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/joseph-arts/jigoku-sushi-bar/index.html</link>
             <guid isPermaLink="false">3f15f6de-c83f-4672-b97f-af814cafd467</guid>
             <pubDate>Thu, 28 Jul 2016 02:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01efb85e-555b-448a-8a2c-3e1f5278c8c9.jpg" alt="Heart Breaker">]]></description>
-            <link>https://thegrid.ai/joseph-arts/heart-breaker/index.html</link>
-            <guid isPermaLink="false">167290cb-7a99-4060-8178-17c6fa8f7308</guid>
-            <pubDate>Thu, 28 Jul 2016 02:16:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
