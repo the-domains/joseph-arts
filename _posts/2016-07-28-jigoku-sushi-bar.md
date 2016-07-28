@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-28T02:21:52.274Z'
+datePublished: '2016-07-28T02:36:17.731Z'
+sourcePath: _posts/2016-07-28-jigoku-sushi-bar.md
 author: []
 via: {}
-dateModified: '2016-07-28T02:21:40.995Z'
+dateModified: '2016-07-28T02:36:17.067Z'
 title: ''
 publisher: {}
 description: Jigoku Sushi Bar
 starred: false
-sourcePath: _posts/2016-07-28-jigoku-sushi-bar.md
 inFeed: true
 hasPage: true
 inNav: false
