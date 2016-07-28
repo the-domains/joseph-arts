@@ -1,18 +1,18 @@
-typography_spectrum: 0.4621018785983324
+typography_spectrum: 0.8914768390823156
 content_rating:
   adult: false
 color:
-  brandStrength: 0.7789925667457283
-  lightness: 0.3474581732880324
-  saturation: 0.8800002785865217
-  rhythmicContrast: 0.30851577990688384
+  brandStrength: 0.30862537981010973
+  lightness: 0.7408017287962139
+  saturation: 0.6899724800605327
+  rhythmicContrast: 0.3975943422410637
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.6072273436002433
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+layout_spectrum: 0.757889258209616
 author:
   name: Joseph Paiva
   email: josephpaiva1985@gmail.com
