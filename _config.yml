@@ -1,4 +1,6 @@
 typography_spectrum: 0.4621018785983324
+content_rating:
+  adult: false
 color:
   brandStrength: 0.7789925667457283
   lightness: 0.3474581732880324
@@ -11,6 +13,9 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.6072273436002433
+author:
+  name: Joseph Paiva
+  email: josephpaiva1985@gmail.com
 name: Joseph Arts
 title: Joseph Arts
 description: Ilustrador Freelancer
