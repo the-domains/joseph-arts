@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-28T16:56:23.551Z'
+datePublished: '2016-07-28T17:02:28.520Z'
+sourcePath: _posts/2016-07-28-under-your-spell.md
 author: []
 via: {}
-dateModified: '2016-07-28T16:56:17.645Z'
+dateModified: '2016-07-28T17:02:28.039Z'
 title: ''
 publisher: {}
 description: Under Your Spell
 starred: false
-sourcePath: _posts/2016-07-28-under-your-spell.md
 inFeed: true
 hasPage: true
 inNav: false
