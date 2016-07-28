@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-28T22:38:15.125Z'
+datePublished: '2016-07-28T22:51:08.703Z'
 sourcePath: _posts/2016-07-28-coolio-featuring-lv-gangstas-paradise.md
 author: []
 via: {}
-dateModified: '2016-07-28T22:38:14.435Z'
+dateModified: '2016-07-28T22:51:08.182Z'
 title: ''
 publisher: {}
-description: Fanart do Clipe. Trilha sonora do filme Mentes Perigosas
+description: Coolio Featuring L.V. - Gangsta's Paradise
 starred: false
 inFeed: true
 hasPage: true
@@ -16,6 +16,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Coolio Featuring L.V. - Gangsta's Paradise](https://the-grid-user-content.s3-us-west-2.amazonaws.com/382c6e44-49cb-4cb4-9fad-be1476116eb2.jpg)
-
-Fanart do Clipe. Trilha sonora do filme Mentes Perigosas
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/382c6e44-49cb-4cb4-9fad-be1476116eb2.jpg)
