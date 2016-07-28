@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-28T02:55:03.677Z'
+datePublished: '2016-07-28T22:38:39.797Z'
 sourcePath: _posts/2016-07-28-samurai-hipster-girl.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-28T02:55:03.124Z'
+dateModified: '2016-07-28T22:38:39.216Z'
 title: ''
 publisher: {}
 description: Samurai Hipster Girl
-hasPage: true
 starred: false
 url: samurai-hipster-girl/index.html
 _context: 'http://schema.org'
