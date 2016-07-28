@@ -4,28 +4,21 @@
         <description><![CDATA[Joseph Arts]]></description>
         <link>https://thegrid.ai/joseph-arts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 22:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 22:48:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joseph-arts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d9009376a737e6ee8a769ce009ecd053/croprotate.jpg?cropheight=1281&cropwidth=1279&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1b3c5914-28bb-42d2-9078-af53d2411ba1.jpg&x=0&y=0" alt="Desert">]]></description>
-            <link>https://thegrid.ai/joseph-arts/desert/index.html</link>
-            <guid isPermaLink="false">bd2635c7-edb6-455f-b3ed-3cebdc0e2771</guid>
-            <pubDate>Thu, 28 Jul 2016 22:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/20b29741327a150dbd327fb5e9ed1b4a/croprotate.jpg?cropheight=1280&cropwidth=1260&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fde359149-8c03-41d4-9c1a-f9c3410d1f16.jpg&x=10&y=0">]]></description>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/20b29741327a150dbd327fb5e9ed1b4a/croprotate.jpg?cropheight=1280&cropwidth=1260&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fde359149-8c03-41d4-9c1a-f9c3410d1f16.jpg&x=10&y=0" alt="Merlin">]]></description>
             <link>https://thegrid.ai/joseph-arts/aaea997a-e64e-4743-aca8-3d284798bddf/index.html</link>
             <guid isPermaLink="false">aaea997a-e64e-4743-aca8-3d284798bddf</guid>
-            <pubDate>Thu, 28 Jul 2016 22:49:10 GMT</pubDate>
+            <pubDate>Thu, 28 Jul 2016 22:48:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0aeea118-2a35-46b6-a50d-4785746307aa.jpg">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0aeea118-2a35-46b6-a50d-4785746307aa.jpg" alt="Under Your Spell">]]></description>
             <link>https://thegrid.ai/joseph-arts/under-your-spell/index.html</link>
             <guid isPermaLink="false">00ed7d86-d1fb-4ce8-94ae-f6d229cc191e</guid>
-            <pubDate>Thu, 28 Jul 2016 22:48:57 GMT</pubDate>
+            <pubDate>Thu, 28 Jul 2016 22:48:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,6 +54,13 @@
             <link>https://thegrid.ai/joseph-arts/heart-breaker/index.html</link>
             <guid isPermaLink="false">167290cb-7a99-4060-8178-17c6fa8f7308</guid>
             <pubDate>Thu, 28 Jul 2016 22:37:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d9009376a737e6ee8a769ce009ecd053/croprotate.jpg?cropheight=1281&cropwidth=1279&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1b3c5914-28bb-42d2-9078-af53d2411ba1.jpg&x=0&y=0" alt="Desert">]]></description>
+            <link>https://thegrid.ai/joseph-arts/desert/index.html</link>
+            <guid isPermaLink="false">bd2635c7-edb6-455f-b3ed-3cebdc0e2771</guid>
+            <pubDate>Thu, 28 Jul 2016 22:37:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
