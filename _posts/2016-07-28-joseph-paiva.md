@@ -1,17 +1,15 @@
 ---
-datePublished: '2016-07-28T23:00:59.764Z'
+datePublished: '2016-07-28T23:01:30.893Z'
+sourcePath: _posts/2016-07-28-joseph-paiva.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc51698d-639e-4c2a-8399-dffcacda7aa6.jpg
 author: []
 via: {}
-dateModified: '2016-07-28T23:00:24.201Z'
+dateModified: '2016-07-28T23:01:29.748Z'
 title: Joseph Paiva
 publisher: {}
-description: >-
-  Ilustrador freelancer.
-  ...........................................................................................................................
+description: Ilustrador freelancer.  EXPERIÊNCIA PROFISSIONAL
 starred: false
-sourcePath: _posts/2016-07-28-joseph-paiva.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -23,8 +21,6 @@ _type: MediaObject
 # Joseph Paiva
 
 Ilustrador freelancer.  
-...........................................................................................................................
-
 EXPERIÊNCIA PROFISSIONAL
 
 2013 - 2016  
