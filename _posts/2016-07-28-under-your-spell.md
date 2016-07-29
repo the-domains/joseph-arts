@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-28T23:04:18.343Z'
+datePublished: '2016-07-29T00:00:12.402Z'
 sourcePath: _posts/2016-07-28-under-your-spell.md
 author: []
 via: {}
-dateModified: '2016-07-28T23:04:17.726Z'
+dateModified: '2016-07-29T00:00:11.557Z'
 title: ''
 publisher: {}
 description: Under Your Spell
@@ -16,4 +16,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Under Your Spell](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0aeea118-2a35-46b6-a50d-4785746307aa.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0aeea118-2a35-46b6-a50d-4785746307aa.jpg)
