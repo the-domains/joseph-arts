@@ -1,15 +1,31 @@
 ---
-datePublished: '2016-07-28T23:02:01.324Z'
-sourcePath: _posts/2016-07-28-joseph-paiva.md
-author: []
-via: {}
-dateModified: '2016-07-28T23:02:00.584Z'
+id: 3a58b865-1c66-4dec-b8ba-4196de142210
+metadata:
+  datePublished: '2016-07-28T23:02:01.324Z'
+  sourcePath: _posts/2016-07-28-joseph-paiva.md
+  isBasedOnUrl: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc51698d-639e-4c2a-8399-dffcacda7aa6.jpg
+  hasPage: true
+  author: []
+  via: {}
+  dateModified: '2016-07-28T23:02:01.324Z'
+  title: Joseph Paiva
+  publisher: {}
+  description: Ilustrador freelancer.  EXPERIÊNCIA PROFISSIONAL
+dateModified: '2016-08-19T05:39:32.387Z'
 title: Joseph Paiva
+datePublished: '2016-08-19T05:42:29.262Z'
+author: []
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc51698d-639e-4c2a-8399-dffcacda7aa6.jpg
+description: Ilustrador freelancer. EXPERIÊNCIA PROFISSIONAL
 publisher: {}
-description: Ilustrador freelancer.  EXPERIÊNCIA PROFISSIONAL
-hasPage: true
+via: {}
 starred: false
-url: joseph-paiva/index.html
+sourcePath: _posts/2016-07-28-joseph-paiva.md
+inFeed: true
+hasPage: false
+inNav: false
 _type: MediaObject
 
 ---
