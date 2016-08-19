@@ -18,9 +18,6 @@ author:
   email: josephpaiva1985@gmail.com
 name: Joseph Arts
 navigation:
-  - name: Dark Arts
-    id: 4ce5256e-fb8e-41e7-9e1a-eaa35beed034
-    type: content
   - name: Sobre
     id: 3a58b865-1c66-4dec-b8ba-4196de142210
     type: content
