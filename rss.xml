@@ -4,8 +4,15 @@
         <description><![CDATA[Joseph Arts]]></description>
         <link>https://thegrid.ai/joseph-arts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 03 Sep 2016 01:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 01:31:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joseph-arts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42ea89ff-8361-42cc-a9cb-2d1cd39de0b3.jpg">]]></description>
+            <link>https://thegrid.ai/joseph-arts/b40fa8ee-5c05-44f4-ac76-160aabb4408d/index.html</link>
+            <guid isPermaLink="false">b40fa8ee-5c05-44f4-ac76-160aabb4408d</guid>
+            <pubDate>Sat, 03 Sep 2016 01:31:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c274af7-1e6f-43ab-9c84-888fa8c97b18.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5a56ac9-8db7-467f-83e6-8cc7ffc65b49.jpg">]]></description>
             <link>https://thegrid.ai/joseph-arts/691d9c99-3d77-4633-bd43-73b404df13d1/index.html</link>
             <guid isPermaLink="false">691d9c99-3d77-4633-bd43-73b404df13d1</guid>
-            <pubDate>Sat, 03 Sep 2016 00:48:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42ea89ff-8361-42cc-a9cb-2d1cd39de0b3.jpg">]]></description>
-            <link>https://thegrid.ai/joseph-arts/b40fa8ee-5c05-44f4-ac76-160aabb4408d/index.html</link>
-            <guid isPermaLink="false">b40fa8ee-5c05-44f4-ac76-160aabb4408d</guid>
             <pubDate>Sat, 03 Sep 2016 00:48:07 GMT</pubDate>
         </item>
     </channel>
