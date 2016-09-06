@@ -4,8 +4,22 @@
         <description><![CDATA[Joseph Arts]]></description>
         <link>https://thegrid.ai/joseph-arts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 03 Sep 2016 01:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 01:31:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joseph-arts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27ebdcb5-fdda-42d3-805d-e38c8059ca3a.jpg">]]></description>
+            <link>https://thegrid.ai/joseph-arts/62a860c9-2ff0-4e95-9842-34c34e448854/index.html</link>
+            <guid isPermaLink="false">62a860c9-2ff0-4e95-9842-34c34e448854</guid>
+            <pubDate>Sat, 03 Sep 2016 01:31:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5a56ac9-8db7-467f-83e6-8cc7ffc65b49.jpg">]]></description>
+            <link>https://thegrid.ai/joseph-arts/691d9c99-3d77-4633-bd43-73b404df13d1/index.html</link>
+            <guid isPermaLink="false">691d9c99-3d77-4633-bd43-73b404df13d1</guid>
+            <pubDate>Sat, 03 Sep 2016 01:31:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42ea89ff-8361-42cc-a9cb-2d1cd39de0b3.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/joseph-arts/edf49d11-e279-48f9-985e-046238a7662a/index.html</link>
             <guid isPermaLink="false">edf49d11-e279-48f9-985e-046238a7662a</guid>
             <pubDate>Sat, 03 Sep 2016 01:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27ebdcb5-fdda-42d3-805d-e38c8059ca3a.jpg">]]></description>
-            <link>https://thegrid.ai/joseph-arts/62a860c9-2ff0-4e95-9842-34c34e448854/index.html</link>
-            <guid isPermaLink="false">62a860c9-2ff0-4e95-9842-34c34e448854</guid>
-            <pubDate>Sat, 03 Sep 2016 00:48:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5a56ac9-8db7-467f-83e6-8cc7ffc65b49.jpg">]]></description>
-            <link>https://thegrid.ai/joseph-arts/691d9c99-3d77-4633-bd43-73b404df13d1/index.html</link>
-            <guid isPermaLink="false">691d9c99-3d77-4633-bd43-73b404df13d1</guid>
-            <pubDate>Sat, 03 Sep 2016 00:48:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
