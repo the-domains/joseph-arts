@@ -1,6 +1,5 @@
-typography_spectrum: 0.5481779586989433
-content_rating:
-  adult: false
+layout_spectrum: 0.20273748692125082
+typography_spectrum: 0.42227640096098185
 color:
   brandStrength: 0.7556145540438592
   lightness: 0.6183763707522303
@@ -12,7 +11,8 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.7796663125045598
+content_rating:
+  adult: false
 author:
   name: Joseph Paiva
   email: josephpaiva1985@gmail.com
